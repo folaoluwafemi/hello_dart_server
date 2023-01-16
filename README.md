@@ -1,7 +1,9 @@
 A server app built using [Shelf](https://pub.dev/packages/shelf),
-configured to enable running with [Docker](https://www.docker.com/).
+configured to enable running with [Docker](https://www.docker.com/) that allow you to save a "hello" text to a server.
 
-This sample code handles HTTP GET requests to `/` and `/echo/<message>`
+This sample code handles HTTP GET and POST requests to `/hello`
+
+
 
 # Running the sample
 
